@@ -10,7 +10,7 @@
 </a>
 <!--
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-💻 Estudiante  
+<p 💻 Estudiante  
 🚀 Interesado en proyectos de Desarrollo Web  
 📚 Actualmente aprendiendo Java, C, HTML, CSS, PHP, Python y herramientas de análisis de datos  
 🌱 Apasionado por la tecnología, la innovación y el aprendizaje continuo  
@@ -25,3 +25,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+/></a> </p>
