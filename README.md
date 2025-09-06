@@ -8,12 +8,18 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CarlosMendoza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+
+<a target="_blank" align="center">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ---
 
 ### 💻 Sobre mí  
 - 🚀 Interesado en proyectos de Desarrollo Web  
-- 📚 Actualmente aprendiendo **Java, C, HTML, CSS, PHP, Python**  
-- 🌱 Apasionado por la tecnología, la innovación y el aprendizaje continuo  
+- 📚 Actualmente aprendiendo **Java, C, HTML, CSS, JavaScrip, PHP, Python**   
+- 🌱 Buscando la innovación y el aprendizaje continuo  
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -28,4 +34,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-
