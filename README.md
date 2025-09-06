@@ -8,18 +8,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CarlosMendoza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<!-- Si tienes Twitter, reemplaza el usuario en el href y alt -->
-<p align="left">
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/TU_USUARIO?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
-<a target="_blank" align="left">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 ---
 
 ### 💻 Sobre mí  
